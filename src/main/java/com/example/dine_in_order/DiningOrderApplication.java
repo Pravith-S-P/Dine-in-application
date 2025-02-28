@@ -1,4 +1,4 @@
-package dining_order_application;
+package com.example.dine_in_order;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,5 +9,4 @@ public class DiningOrderApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DiningOrderApplication.class, args);
 	}
-
 }
